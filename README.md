@@ -13,7 +13,6 @@ This project aims to predict housing prices based on various features using mult
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
